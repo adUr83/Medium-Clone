@@ -1,0 +1,364 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+    padding-right: 5rem;
+    padding-left: 5rem;
+    border-bottom: 1px solid rgba(117, 117, 117, 1);
+    overflow: scroll;
+}
+.flex-1 {
+    display: flex;
+    flex-direction: row;
+}
+.flex-1 {
+    width: 376px;
+    margin-right: 10px;
+}
+.flex-1 img {
+    width: 376px;
+    height: 282px;
+}
+.flex-1 .card-1 .date-2 {
+    font-size: 13px;
+    opacity: 0.7;
+    color: rgba(117, 117, 117, 1);
+    display: flex;
+    flex-direction: row;
+}
+.flex-1 .card-1 .date-4 {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.card-1 span {
+    opacity: 0.5;
+}
+.card-1 h2 {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.8);
+
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+.card-1 h4 {
+    font-size: 13px;
+}
+
+.card-1 p a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.8);
+}
+.flex-right {
+    display: flex;
+    flex-direction: row;
+    width: 376px;
+    position: absolute;
+    left: 485px;
+}
+.flex-right img {
+    width: 100px;
+    height: 100px;
+}
+.flex-right h2 {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.8);
+
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+
+.flex-right h4 {
+    font-size: 13px;
+}
+.flex-right-2 img {
+    width: 100px;
+    height: 100px;
+}
+.flex-right-2 {
+    display: flex;
+    flex-direction: row;
+    width: 376px;
+    position: absolute;
+    left: 485px;
+    top: 11rem;
+    border-right: 1px solid rgba(117, 117, 117, 1);
+}
+.flex-right-2 h4 {
+    font-size: 13px;
+}
+.flex-right-2 h2 {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.8);
+
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+.flex-right-2 .date-2 {
+    display: flex;
+    flex-direction: row;
+}
+.flex-right .date-2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-right .date-3 {
+    margin-right: 5px;
+    font-size: 13px;
+    opacity: 0.7;
+    color: rgba(117, 117, 117, 1);
+}
+.flex-right .date-4 {
+    margin-left: 5px;
+    font-size: 13px;
+    opacity: 0.7;
+    color: rgba(117, 117, 117, 1);
+}
+.flex-right-2 .date-3 {
+    margin-right: 5px;
+    font-size: 13px;
+    opacity: 0.7;
+    color: rgba(117, 117, 117, 1);
+}
+.flex-right-2 .date-4 {
+    margin-left: 5px;
+    font-size: 13px;
+    opacity: 0.7;
+    color: rgba(117, 117, 117, 1);
+}
+.flex-right-2 .date-4 {
+    margin-left: 5px;
+    font-size: 13px;
+    opacity: 0.7;
+    color: rgba(117, 117, 117, 1);
+}
+.flex-right-3 img {
+    width: 100px;
+    height: 100px;
+}
+.flex-right-3 {
+    display: flex;
+    flex-direction: row;
+    width: 376px;
+    position: absolute;
+    left: 485px;
+    top: 19rem;
+}
+.flex-right-3 .date-3 {
+    margin-right: 5px;
+    font-size: 13px;
+    opacity: 0.7;
+    color: rgba(117, 117, 117, 1);
+}
+.flex-right-3 .date-5 {
+    margin-left: 5px;
+    font-size: 13px;
+    opacity: 0.7;
+    color: rgba(117, 117, 117, 1);
+}
+.flex-right-3 h4 {
+    font-size: 13px;
+}
+.flex-right-3 h2 {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.8);
+
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+.flex-right-3 .date-2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-right-4 img {
+    width: 100px;
+    height: 100px;
+}
+.flex-right-4 {
+    display: flex;
+    flex-direction: row;
+    width: 376px;
+    position: absolute;
+    left: 485px;
+    top: 27rem;
+}
+.flex-right-4 .date-3 {
+    margin-right: 5px;
+    font-size: 13px;
+    opacity: 0.7;
+    color: rgba(117, 117, 117, 1);
+}
+.flex-right-4 .date-6 {
+    margin-left: 5px;
+    font-size: 13px;
+    opacity: 0.7;
+    color: rgba(117, 117, 117, 1);
+}
+.flex-right-4 h4 {
+    font-size: 13px;
+}
+.flex-right-4 h2 {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.8);
+
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+.flex-right-4 .date-2 {
+    display: flex;
+    flex-direction: row;
+}
+.flex-2 {
+    border-left: 1px solid black;
+    padding-left: 5rem;
+    margin-bottom: 10rem;
+    height: 100%;
+}
+
+.twiter p {
+    width: 283px;
+    height: 36px;
+    color: rgba(0, 0, 0, 0.8);
+    font-family: medium-content-sans-serif-font, -apple-system,
+        BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
+        "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 40px;
+    position: relative;
+}
+.fa-twitter {
+    color: rgb(56, 161, 243);
+}
+.twiter button {
+    align-content: center;
+    position: absolute;
+    right: 8rem;
+    background-color: transparent;
+    border: 1px solid rgba(117, 117, 117, 1);
+    padding: 5px;
+}
+.twiter span {
+    top: 10px;
+    position: absolute;
+    top: 164px;
+    align-content: center;
+    right: 174px;
+}
+.twiter span a {
+    text-decoration: underline;
+    color: rgba(117, 117, 117, 1);
+}
+.follow h2 {
+    position: relative;
+    top: 132px;
+    text-transform: uppercase;
+    letter-spacing: 0.083em;
+    line-height: 16px;
+    font-size: 12px;
+    font-weight: 700;
+    color: rgba(41, 41, 41, 1);
+    right: 30px;
+}
+.card-2 {
+    position: relative;
+    display: flex;
+    top: 9rem;
+    justify-content: space-around;
+    right: 35px;
+}
+.card-2 img {
+    width: 64px;
+    border-radius: 50%;
+    justify-content: flex-start;
+    margin-bottom: 40px;
+}
+.card-2 button {
+    padding: 4px 12px 6px;
+    background: rgb(26, 137, 23);
+    display: inline-block;
+    border-radius: 4px;
+    color: rgba(255, 255, 255, 1);
+    line-height: 20px;
+    font-size: 14px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    border: 1px solid;
+    width: 70px;
+    height: 40px;
+    left: 5px;
+}
+.card-2 p {
+    max-height: 32px;
+    text-overflow: ellipsis;
+    font-weight: 400;
+    color: rgba(117, 117, 117, 1);
+    overflow: hidden;
+}
+.follow-1 h2 {
+    position: relative;
+    top: 120px;
+    text-transform: uppercase;
+    letter-spacing: 0.083em;
+    line-height: 16px;
+    font-size: 12px;
+    font-weight: 700;
+    color: rgba(41, 41, 41, 1);
+    right: 18px;
+}
+
+.card-3 {
+    position: relative;
+    display: flex;
+    top: 8rem;
+    justify-content: space-around;
+    right: 8px;
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.card-3 button {
+    padding: 4px 12px 6px;
+    background: rgb(26, 137, 23);
+    display: inline-block;
+    border-radius: 4px;
+    color: rgba(255, 255, 255, 1);
+    line-height: 20px;
+    font-size: 14px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    border: 1px solid;
+    width: 70px;
+    height: 30px;
+    left: 5px;
+    align-items: center;
+    margin-bottom: 8px;
+}
+.card-3 p {
+    max-height: 32px;
+    text-overflow: ellipsis;
+    font-weight: 400;
+    color: rgba(117, 117, 117, 1);
+    overflow: hidden;
+}
+card-container {
+    display: flex;
+    align-items: flex-start;
+}
+
+@media (max-widht: 500px) {
+}
+
+@media only screen and (max-width: 768.67px) {
+    .flex-2 {
+       display: none;
+    }
+}
+@media only screen and (max-width: 1024.67px) {
+    .flex-2 {
+       display: none;
+    }
+}
